@@ -41,10 +41,6 @@ export const APPS  = () => {
                           <div className='item2'>
                             <img src={Carrusel1} alt='Image'/>
                             <br/>
-                            <br/>
-                            <br/>
-                            <br/>
-                            <br/>
                             <h5>VIDEO JUEGO</h5>
                           </div>
                           <div className='item'>

@@ -1,9 +1,7 @@
 import { useState, useEffect } from 'react';
 import Container from 'react-bootstrap/Container';
-import NavbarCollapse from 'react-bootstrap/esm/NavbarCollapse';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import logo from '../Assets/img/logo.png';
 
 export const NavBar = () => {
